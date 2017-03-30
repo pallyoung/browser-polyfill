@@ -1,0 +1,25 @@
+{
+  "name": "browser-polyfill",
+  "version": "1.0.0",
+  "description": "javascript browser polyfill,if one framework is specially for  browser environment, it will case error when u try to use it in node environment.you can use this framework to avoid such errors.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallyoung/browser-polyfill.git"
+  },
+  "keywords": [
+    "window",
+    "node",
+    "browser",
+    "javascript"
+  ],
+  "author": "Spencer Ye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallyoung/browser-polyfill/issues"
+  },
+  "homepage": "https://github.com/pallyoung/browser-polyfill#readme"
+}
